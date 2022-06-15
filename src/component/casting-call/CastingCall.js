@@ -5,7 +5,7 @@ export default function CastingCall() {
   return (
     <>
     <Header/>
-    <div>CastingCall</div>
+    <div>CastingCalls</div>
     </>
   )
 }
